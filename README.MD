@@ -1,6 +1,6 @@
-# ADVANCED STATISTICS PROJECT
+## ADVANCED STATISTICS PROJECT
 
-## Drug Analysis using ANOVA and Principal Component Analysis on College Admissions data
+### Drug Analysis using ANOVA and Principal Component Analysis on College Admissions data
 
 The project involves drawing inferences from 2 case studies - Hay Fever Drug Analysis and College Admissions Data.
 
