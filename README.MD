@@ -6,4 +6,4 @@ The project involves drawing inferences from 2 case studies - Hay Fever Drug Ana
 
 The concepts of Exporatory Data Analysis, Ananlysis of Variance and Principal Component Analysis are used to draw inferences from these case studies
 
-##### SKILLS & TOOLS : ANOVA, PCA, EDA
+#### SKILLS & TOOLS : ANOVA, PCA, EDA
